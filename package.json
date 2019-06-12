@@ -1,0 +1,15 @@
+{
+  "name": "eggsdee",
+  "version": "1.0.0",
+  "description": "Simple Facebook Bot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rypx",
+  "license": "MIT",
+  "dependencies": {
+    "bootbot": "^1.0.16",
+    "dotenv": "^8.0.0"
+  }
+}
